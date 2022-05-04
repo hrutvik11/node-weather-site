@@ -1,4 +1,3 @@
-
 function getweatherdata(){
     const address = document.getElementById("addressbox").value
     const box = document.getElementById("current-weather");
